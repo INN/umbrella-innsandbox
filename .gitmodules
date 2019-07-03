@@ -4,3 +4,7 @@
 [submodule "wp-content/plugins/client-hosting-manager"]
 	path = wp-content/plugins/client-hosting-manager
 	url = https://github.com/INN/client-hosting-manager.git
+[submodule "wp-content/themes/largo-dev"]
+	path = wp-content/themes/largo-dev
+	url = https://github.com/INN/largo.git
+	branch = 0.5-dev
